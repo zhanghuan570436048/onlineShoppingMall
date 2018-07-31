@@ -1,5 +1,5 @@
 {
-  "name": "06.szhm19",
+  "name": "02.first",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,22 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "element-ui": "^2.4.5",
+    "element-ui": "^2.4.4",
+    "font-awesome": "^4.7.0",
+    "iview": "^2.14.3",
+    "jquery": "^3.3.1",
     "moment": "^2.22.2",
     "vue": "^2.5.16",
     "vue-product-zoomer": "^2.0.10",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.5",
     "@vue/cli-plugin-eslint": "^3.0.0-rc.5",
     "@vue/cli-service": "^3.0.0-rc.5",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
     "vue-lazyload": "^1.2.6",
     "vue-template-compiler": "^2.5.16"
   },

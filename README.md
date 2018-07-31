@@ -1,4 +1,4 @@
-# 06.szhm19
+# 02.first
 
 ## Project setup
 ```
